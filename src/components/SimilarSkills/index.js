@@ -1,3 +1,4 @@
+import './index.css'
 import {FaStar} from 'react-icons/fa'
 
 import {IoLocationSharp} from 'react-icons/io5'
@@ -43,11 +44,11 @@ const SimilarSkills = props => {
       </div>
       <div className="title">
         <div className="title1">
-          <IoLocationSharp className="location" />
+          <IoLocationSharp className="location1" />
           <p className="h13">{location}</p>
         </div>
         <div className="title1">
-          <BsFillBriefcaseFill className="location" />
+          <BsFillBriefcaseFill className="location1" />
           <p className="h13">{employmentType}</p>
         </div>
       </div>

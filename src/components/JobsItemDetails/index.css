@@ -20,6 +20,9 @@
 .life1 {
   display: flex;
 }
+.h15 {
+  font-weight: bold;
+}
 .h1123 {
   color: white;
   line-height: 30px;
@@ -64,4 +67,14 @@
 }
 a {
   margin: 10px;
+}
+.img_life {
+  width: 20vw;
+  height: 20vh;
+}
+@media all and (width<=576px) {
+  .location {
+    margin-right: 2px;
+    margin-top: 20px;
+  }
 }

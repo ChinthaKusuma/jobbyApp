@@ -35,11 +35,11 @@ const JobCard = props => {
           <div className="title">
             <div className="title1">
               <IoLocationSharp className="location" />
-              <p className="h13">{location}</p>
+              <p className="h11">{location}</p>
             </div>
             <div className="title1">
               <BsFillBriefcaseFill className="location" />
-              <p className="h13">{employmentType}</p>
+              <p className="h11">{employmentType}</p>
             </div>
           </div>
           <div className="salary">

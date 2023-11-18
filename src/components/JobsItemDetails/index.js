@@ -124,7 +124,7 @@ class JobsItemDetails extends Component {
               className="job_img"
             />
             <div>
-              <h1 className="h13">{title}</h1>
+              <h1 className="h11">{title}</h1>
               <div className="title">
                 <FaStar className="icon-star" />
                 <p className="h13">{rating}</p>
@@ -135,11 +135,11 @@ class JobsItemDetails extends Component {
             <div className="title">
               <div className="title1">
                 <IoLocationSharp className="location" />
-                <p className="h13">{location}</p>
+                <p className="h11">{location}</p>
               </div>
               <div className="title1">
                 <BsFillBriefcaseFill className="location" />
-                <p className="h13">{employmentType}</p>
+                <p className="h11">{employmentType}</p>
               </div>
             </div>
             <div className="salary">
@@ -175,7 +175,7 @@ class JobsItemDetails extends Component {
             <img
               src={lifeAtCompany.imageUrl}
               alt="life at company"
-              //   className="life1"
+              className="img_life"
             />
           </div>
         </div>
