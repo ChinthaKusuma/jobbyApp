@@ -1,0 +1,92 @@
+.profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 20vw;
+  border-radius: 12px;
+  padding: 10px;
+}
+.c111 {
+  background-color: black;
+  min-height: 100vh;
+}
+.h12 {
+  color: #4f46e5;
+}
+.profile1 {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 30vw;
+}
+.hr1 {
+  width: 25vw;
+}
+.h11 {
+  color: white;
+}
+.label1 {
+  color: white;
+}
+.jobs {
+  display: flex;
+  flex-direction: row;
+}
+.job1 {
+  width: 30vw;
+}
+.job2 {
+  width: 70vw;
+  padding: 20px;
+}
+.input1 {
+  width: 30vw;
+  border: 0px;
+  /* border: 1px solid #64748b; */
+}
+.search1 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #64748b;
+  width: 35vw;
+  margin-left: 55px;
+}
+.icons {
+  border: 0px;
+}
+.btn23 {
+  background-color: grey;
+  border: 0px;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.profile12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  width: 20vw;
+}
+.btn123 {
+  background-color: #4f46e5;
+  border: 0px;
+  padding: 10px;
+  border-radius: 12px;
+  color: white;
+}
+.img123 {
+  width: 600px;
+  height: 600px;
+}
+.failure1 {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
