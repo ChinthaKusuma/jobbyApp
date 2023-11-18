@@ -37,7 +37,13 @@
 .salary {
   text-align: right;
 }
+.job_img {
+  margin-top: 30px;
+}
 .h15 {
   color: white;
   line-height: 25px;
+}
+.heading1 {
+  color: white;
 }

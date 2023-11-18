@@ -27,6 +27,7 @@
 .similar_jobs {
   display: flex;
   /* width: 30vw; */
+  flex-wrap: wrap;
 }
 .li1 {
   background-color: #2c364c;

@@ -90,3 +90,32 @@
   /* justify-content: center; */
   align-items: center;
 }
+
+@media all and (width<=576px) {
+  .profile {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+    background-size: cover;
+    width: 90vw;
+    border-radius: 12px;
+    padding: 10px;
+  }
+  .job2 {
+    width: 100vw;
+    padding: 20px;
+  }
+  .jobs {
+    display: flex;
+    /* flex-direction: row; */
+    flex-direction: column;
+  }
+  .hr1 {
+    width: 90vw;
+  }
+  .search1 {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #64748b;
+    width: 50vw;
+    margin-left: 55px;
+  }
+}
